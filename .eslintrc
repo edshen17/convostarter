@@ -1,0 +1,9 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "antfu/generic-spacing": "off",
+    "@typescript-eslint/no-use-before-define": "off",
+    "curly": "off"
+  },
+  "root": true
+}
